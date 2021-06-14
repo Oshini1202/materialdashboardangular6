@@ -1,6 +1,7 @@
 # Materialdashboardangular6
 
-This is ann angular dashboard view which was created by using Angular materials.
+This is an angular dashboard view which was created by using Angular materials.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
 ## Development server
